@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <!-- extra repositories -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franklin-Qi&theme=solarized-dark&repo=journey)](https://github.com/Franklin-Qi/journey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franklin-Qi&theme=solarized-dark&repo=ASR-demo)](https://github.com/Franklin-Qi/ASR-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franklin-Qi&theme=solarized-dark&repo=kylin-scanner)](https://github.com/Franklin-Qi/kylin-scanner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Franklin-Qi&theme=solarized-dark&repo=qtbase-opensource-src-demo)](https://github.com/Franklin-Qi/qtbase-opensource-src-demo)
