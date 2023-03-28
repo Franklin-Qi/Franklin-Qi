@@ -27,18 +27,18 @@ def get_link_info(feed_url, num):
     
 def main():
 
-    # 替换 ---start--- 到 ---end--- 之间的内容
+    # replace content between `---start---` and `---end---`
     # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
     fmt = '%Y-%m-%d %H:%M:%S %Z%z'
-    insert_info = "---start---\n\n## 每日更新(" + "更新时间:"+  datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + " | 本部分通过Github Actions自动更新,实现了自动刷绿墙...)" +"\n" + "\n---end---"
+    insert_info = "---start---\n\n### Daily update via Github Actions(" + "Time:"+  datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S') + ")" +"\n" + "\n---end---"
     
-    # 获取README.md内容
+    # update README.md
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
 
     print(insert_info)
 
-    new_readme_md_content = re.sub(r'---start---(.|\n)*---end---', insert_info, readme_md_content)
+    new_readme_md_content = re.sub(r'---start---(.|\n)*---end---', readme_md_content, insert_info)
 
     with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
