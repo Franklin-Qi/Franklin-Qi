@@ -4,26 +4,6 @@ import re
 import pytz
 from datetime import datetime
 
-def get_link_info(feed_url, num):
-
-    result = ""
-    feed = feedparser.parse(feed_url)
-    feed_entries = feed["entries"]
-    feed_entries_length = len(feed_entries)
-    all_number = 0;
-
-    if(num > feed_entries_length):
-        all_number = feed_entries_length
-    else:
-        all_number = num
-    
-    for entrie in feed_entries[0: all_number]:
-        title = entrie["title"]
-        link = entrie["link"]
-        result = result + "\n" + "[" + title + "](" + link + ")" + "\n"
-    
-    return result
-    
 def main():
 
     # replace content between `---start---` and `---end---`
