@@ -5,6 +5,7 @@ import pytz
 from datetime import datetime
 
 def main():
+    return
 
     # replace content between `---start---` and `---end---`
     # pytz.timezone('Asia/Shanghai')).strftime('%Y年%m月%d日%H时M分')
