@@ -11,7 +11,6 @@
 <!-- Stats Counter Badges - Moved to Top -->
 <div align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=Franklin-Qi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Franklin-Qi.Franklin-Qi" alt="Visitors" />
   <img src="https://hits.sh/github.com/Franklin-Qi.svg?style=for-the-badge&label=Profile%20Hits&color=fe7d37" alt="Hits" />
   <img src="https://img.shields.io/github/stars/Franklin-Qi?style=for-the-badge&logo=github&label=Total%20Stars" alt="Stars" />
 </div>
