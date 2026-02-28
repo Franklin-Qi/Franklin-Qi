@@ -1,10 +1,10 @@
 <!-- Header with Wave Animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=Franklin-Qi&fontSize=70&animation=fadeIn&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Franklin-Qi&fontSize=70&animation=fadeIn&fontColor=fff)
 
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Senior+OS+Engineer;Kernel+Geek+%26+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Senior+OS+Engineer;Kernel+Geek;AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
