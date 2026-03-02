@@ -8,6 +8,11 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://Franklin-Qi.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:yusq77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
 <!-- Stats Counter Badges - Moved to Top -->
 <div align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=Franklin-Qi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
