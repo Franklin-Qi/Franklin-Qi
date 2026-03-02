@@ -64,19 +64,19 @@ Systems Programmer deeply passionate about low-level engineering, systems progra
 
 <br/>
 
-<!-- GitHub Streak Stats -->
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franklin-Qi&theme=solarized&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
-<!-- Profile Details Card - Full Width -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Franklin-Qi&theme=solarized" alt="Profile Details" width="100%" />
 </div>
 
 <br/>
+-->
 
 ## 3D Contribution Graph
 
