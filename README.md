@@ -24,7 +24,7 @@
 
 ### About Me
 
-Systems Programmer deeply passionate about low-level engineering, performance optimization.
+Systems Programmer deeply passionate about low-level engineering, systems programming, and performance optimization.
 
 - 📫 Currently building operating system software
 - ⚡ Deeply interested in System Kernels and AI
