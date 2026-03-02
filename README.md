@@ -26,7 +26,7 @@
 
 Systems Programmer deeply passionate about low-level engineering, performance optimization.
 
-- 📫 Reach me: yusq77@gmail.com
+- 📫 Currently building operating system software
 - ⚡ Deeply interested in System Kernels and AI
 
 ## Tech Stack
